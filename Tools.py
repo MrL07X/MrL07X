@@ -1,6 +1,6 @@
-#Coded By Zidan-ID\King Mr_Z17
-#YouTube Mr_Z17
-#Vortex Indonesia
+#Coded By MrL07X\King MrL07X
+#YouTube MrL07X
+#indonesia cyber army
 import os,sys,time
 
  # SILAHKAN COSTUMISASI SENDIRI YA BOSQ #
